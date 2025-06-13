@@ -13,6 +13,6 @@ long nthFibonacci(long n) {
 int main() {
     long n = 45;
     long result = nthFibonacci(n);
-    printf("%lld\n", result);
+    printf("%ld\n", result);
     return 0;
 }
