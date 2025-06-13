@@ -1,10 +1,11 @@
 // C++ Recursive Fibonacci
 
 #include <iostream>
+#include <string>
 using namespace std;
 
 // Function to calculate the nth Fibonacci number using recursion
-int nthFibonacci(int n) {
+long nthFibonacci(long n) {
 
     // Base case: if n is 0 or 1, return n
     if (n <= 1){
@@ -16,8 +17,8 @@ int nthFibonacci(int n) {
 }
 
 int main() {
-    int n = 50;
-    int result = nthFibonacci(n);
+    int n = 45;
+    long result = nthFibonacci(n);
     cout << result << endl;
 
     return 0;

@@ -12,7 +12,7 @@ local function nth_fibonacci(n)
 
 end
 
-local n = 50
+local n = 45
 local result = nth_fibonacci(n)
 print(result)
 
