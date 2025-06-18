@@ -90,5 +90,9 @@
         "typeinfo": "cpp",
         "valarray": "cpp",
         "variant": "cpp"
-    }
+    },
+    "Lua.diagnostics.globals": [
+        "recieveFunc",
+        "STATEMENT"
+    ]
 }

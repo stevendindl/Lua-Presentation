@@ -18,7 +18,7 @@ local function tablelength(T)
   return count
 end
 
-if tablelength(arg) ~= 3 or type(arg[1]) == 'number' then 
+if tablelength(arg) ~= 3 or type(tonumber(arg[1])) ~= 'number' then
     print('Improper args: lua rf.lua <int>')
     do return end
 end
@@ -30,7 +30,7 @@ print(result)
 
 
 --[[
-Via Me (Steven Michael Dindl, programmer, student, former firehouse subs worker, genuis)
+Via Me (Steven Michael Dindl, student, former firehouse subs worker, genuis)
 https://www.linkedin.com/in/steven-dindl/
 
 args reference: https://torch5.sourceforge.net/manual/LuaManual-6.html
