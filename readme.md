@@ -51,10 +51,10 @@ Lua-Presentation/
 ```
 
 #### Directory descriptions:
-- **examples-ss/**: Simpler versions of the same code in *lua-examples/* ,sused for some screenshots displayed in the presentation
+- **examples-ss/**: Simpler versions of the some code in *lua-examples/*, used for screenshots displayed in the presentation
 - **files/**: Contains the presentation slides PDF
-- **lua-examples/**: All the code examples shown in the presentation, most using IO to better showcase one element at a time when running the code
-    - `demo.lua`:	Main demonstration script ([Showcased by Trent](https://www.youtube.com/watch?v=QQ7Gw4il9Ow&t=120s))
+- **lua-examples/**: All of the code examples shown in the presentation, most using IO to better showcase one element at a time when running the code
+    - `demo.lua`:	Main syntax demo script ([Showcased by Trent](https://www.youtube.com/watch?v=QQ7Gw4il9Ow&t=120s))
     - `emb-main.c`:	C program demonstrating Lua embedding
     - `emb-script.lua`:	Lua script to be embedded in C
     - `run`:	Executable for `emb-main.c` (recompile if pulled)
