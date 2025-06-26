@@ -25,7 +25,7 @@
 
 #### View the slides (15 slides)
 ##### [View PDF](https://github.com/stevendindl/Lua-Presentation/tree/main/files/Lua_Presentation.pdf)
-##### [Download PDF](files/Lua_Presentation.pdf)
+##### [![Download PDF](https://img.shields.io/badge/Download-PDF-blue?logo=adobeacrobatreader)](https://github.com/stevendindl/Lua-Presentation/raw/main/files/Lua_Presentation.pdf)
 
 ---
 ###### [Explore more of my projects on my portfolio site](https://stevendindl.github.io/portfolio/)
