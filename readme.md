@@ -24,8 +24,7 @@
 [![The Simplistic Embedding Language](https://img.youtube.com/vi/QQ7Gw4il9Ow/0.jpg)](https://www.youtube.com/watch?v=QQ7Gw4il9Ow)
 
 #### View the slides (15 slides)
-##### [View PDF](https://github.com/stevendindl/Lua-Presentation/tree/main/files/Lua_Presentation.pdf)
-##### [Download PDF](https://github.com/stevendindl/Lua-Presentation/raw/main/files/Lua_Presentation.pdf)
+##### [PDF file](https://github.com/stevendindl/Lua-Presentation/raw/main/files/Lua_Presentation.pdf)
 
 ---
 
