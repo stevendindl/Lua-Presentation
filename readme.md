@@ -1,5 +1,5 @@
 ## Overview of Lua
-###### The Simplistic Embedding Language
+## The Simplistic Embedding Language
 
 ---
 
@@ -25,8 +25,45 @@
 
 #### View the slides (15 slides)
 ##### [View PDF](https://github.com/stevendindl/Lua-Presentation/tree/main/files/Lua_Presentation.pdf)
-##### [![Download PDF](https://img.shields.io/badge/Download-PDF-blue?logo=adobeacrobatreader)](https://github.com/stevendindl/Lua-Presentation/raw/main/files/Lua_Presentation.pdf)
+##### [Download PDF](https://github.com/stevendindl/Lua-Presentation/raw/main/files/Lua_Presentation.pdf)
+
+---
+
+### Repository structure
+
+```
+Lua-Presentation/
+├── .gitignore
+├── readme.md
+├── examples-ss/
+│   ├── oop.lua
+│   ├── tables.lua
+│   └── types.lua
+├── files/
+│   └── Lua_Presentation.pdf
+└── lua-examples/
+    ├── demo.lua
+    ├── emb-main.c
+    ├── emb-script.lua
+    ├── oop.lua
+    ├── run
+    ├── tables.lua
+    └── types.lua
+```
+
+#### Directory descriptions:
+- **examples-ss/**: Simpler versions of the same code in *lua-examples/* ,sused for some screenshots displayed in the presentation
+- **files/**: Contains the presentation slides PDF
+- **lua-examples/**: All the code examples shown in the presentation, most using IO to better showcase one element at a time when running the code
+    - `demo.lua`:	Main demonstration script ([Showcased by Trent](https://www.youtube.com/watch?v=QQ7Gw4il9Ow&t=120s))
+    - `emb-main.c`:	C program demonstrating Lua embedding
+    - `emb-script.lua`:	Lua script to be embedded in C
+    - `run`:	Executable for `emb-main.c` (recompile if pulled)
+    - `oop.lua`:	Demonstrates object-oriented programming in Lua
+    - `tables.lua`:	Shows the various data structures table fill in Lua
+    - `types.lua`:	Illustrates Lua's basic data types, with a focus on tables
 
 ---
 ###### [Explore more of my projects on my portfolio site](https://stevendindl.github.io/)
 
+--- 
