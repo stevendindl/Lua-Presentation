@@ -28,5 +28,5 @@
 ##### [![Download PDF](https://img.shields.io/badge/Download-PDF-blue?logo=adobeacrobatreader)](https://github.com/stevendindl/Lua-Presentation/raw/main/files/Lua_Presentation.pdf)
 
 ---
-###### [Explore more of my projects on my portfolio site](https://stevendindl.github.io/portfolio/)
+###### [Explore more of my projects on my portfolio site](https://stevendindl.github.io/)
 
